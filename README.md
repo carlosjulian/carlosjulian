@@ -17,9 +17,9 @@
 **Acerca de mí**
 
 - 👨 Nací en Tuxtla Gutiérrez, Chiapas, México.
-- 👨‍💻 Soy Ingeniero Mecatrónico, y trabajo como Profesor de Programación
-- 🎓 También soy divulgador y creador de contenido sobre Física, Matemáticas, Robótica y Arduino
-- ⭐ Mis lenguajes de programación favoritos son Javascript y PHP 
+- 👨‍💻 Soy Ingeniero Mecatrónico, Desarrollador Web, y Profesor
+- 🎓 También soy divulgador y creador de contenido sobre Ciencias y el mundo Tech
+- ⭐ Mis lenguajes de programación favoritos son Javascript y PHP
 - ❤️ Soy SEO y Analista de Datos
 
 </br>
