@@ -1,5 +1,5 @@
 <p align="center" width="300">
- <h3 align="center">!Hola! Soy <a href="https://carlosjulian.mx" target="_blank">Carlos Julián </a> 👋 </h3>  
+ <h3 align="center">!Hola! Soy <a href="https://carlosjulian.dev" target="_blank">Carlos Julián </a> 👋 </h3>  
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosjulianmx/)
