@@ -4,8 +4,8 @@ import Footer from "@/components/Footer";
 import { PageTransition } from "@/components/ui/page-transition";
 
 export const metadata = {
-  title: "Contact | Mithun Gowda B",
-  description: "Get in touch with Mithun Gowda B for collaborations, opportunities, or a friendly chat about tech.",
+  title: "Contact | Carlos Julián",
+  description: "Get in touch with Carlos Julián for collaborations, engineering projects, or AI-focused work.",
 };
 
 export default function ContactPage() {

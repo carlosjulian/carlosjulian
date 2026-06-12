@@ -1,4 +1,4 @@
-const GITHUB_USERNAME = "mithun50";
+const GITHUB_USERNAME = "carlosjulian";
 const GITHUB_API = "https://api.github.com";
 
 export interface GitHubRepo {

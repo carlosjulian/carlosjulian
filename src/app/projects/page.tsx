@@ -7,8 +7,8 @@ import { getDynamicProjects, getCategories } from "@/lib/data";
 export const revalidate = 3600; // Revalidate every hour
 
 export const metadata = {
-  title: "Projects | Mithun Gowda B",
-  description: "Explore Mithun Gowda B's projects - AI frameworks, mobile apps, web development, and open-source contributions.",
+  title: "Projects | Carlos Julián",
+  description: "Explore Carlos Julián's GitHub projects, experiments, and engineering work across AI and software development.",
 };
 
 export default async function ProjectsPage() {

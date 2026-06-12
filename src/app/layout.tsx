@@ -23,24 +23,24 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Mithun Gowda B | Full-Stack Developer & AI Enthusiast",
+  title: "Carlos Julián | Mechatronics Engineer, IA Engineer & Developer",
   description:
-    "Portfolio of Mithun Gowda B - Engineering student at DBIT, Co-Founder of NextGenXplorrers, full-stack developer, and open-source contributor specializing in AI frameworks, mobile apps, and web development.",
+    "Portfolio of Carlos Julián - mechatronics engineer focused on AI engineering, software development, and practical digital products.",
   keywords: [
-    "Mithun Gowda B",
-    "Full-Stack Developer",
+    "Carlos Julián",
+    "Mechatronics Engineer",
+    "IA Engineer",
     "AI Developer",
     "Open Source",
     "React",
     "Next.js",
     "Python",
-    "Flutter",
-    "SuperClaude",
-    "NextGenXplorrers",
-    "DBIT",
-    "Don Bosco Institute of Technology",
+    "Automation",
+    "Software Development",
+    "Chiapas",
+    "México",
   ],
-  authors: [{ name: "Mithun Gowda B" }],
+  authors: [{ name: "Carlos Julián" }],
   icons: {
     icon: "/99024517.jpeg",
     shortcut: "/99024517.jpeg",
@@ -48,28 +48,28 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    locale: "en_US",
-    url: "https://mithun50.github.io",
-    title: "Mithun Gowda B | Full-Stack Developer & AI Enthusiast",
+    locale: "es_MX",
+    url: "https://carlosjulian.dev",
+    title: "Carlos Julián | Mechatronics Engineer, IA Engineer & Developer",
     description:
-      "Portfolio of Mithun Gowda B - Engineering student at DBIT, Co-Founder of NextGenXplorrers",
-    siteName: "Mithun Gowda B Portfolio",
+      "Portfolio of Carlos Julián with projects, experience, and links across GitHub and personal platforms.",
+    siteName: "Carlos Julián Portfolio",
     images: [
       {
-        url: "https://github.com/mithun50.png",
+        url: "https://github.com/carlosjulian.png",
         width: 400,
         height: 400,
-        alt: "Mithun Gowda B",
+        alt: "Carlos Julián",
       },
     ],
   },
   twitter: {
     card: "summary",
-    title: "Mithun Gowda B | Full-Stack Developer & AI Enthusiast",
+    title: "Carlos Julián | Mechatronics Engineer, IA Engineer & Developer",
     description:
-      "Portfolio of Mithun Gowda B - Engineering student at DBIT, Co-Founder of NextGenXplorrers",
-    images: ["https://github.com/mithun50.png"],
-    creator: "@MithunGowdaB",
+      "Portfolio of Carlos Julián with projects, experience, and contact links.",
+    images: ["https://github.com/carlosjulian.png"],
+    creator: "@carlosjuliandev",
   },
   robots: {
     index: true,

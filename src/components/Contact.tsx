@@ -8,19 +8,20 @@ import {
   Github,
   Linkedin,
   Twitter,
+  Globe,
   ArrowUpRight,
   Copy,
   Check,
-  MessageCircle,
+  Youtube,
 } from "lucide-react";
 import { staticProfile } from "@/lib/data";
 import { GlassCard } from "@/components/ui/glass-card";
 
 const socialLinks = [
-  { name: "GitHub", icon: Github, href: staticProfile.socials.github, handle: "@mithun50" },
-  { name: "LinkedIn", icon: Linkedin, href: staticProfile.socials.linkedin, handle: "@mithungowdab" },
-  { name: "Twitter", icon: Twitter, href: staticProfile.socials.twitter, handle: "@MithunGowdaB" },
-  { name: "Discord", icon: MessageCircle, href: staticProfile.socials.discord, handle: "Server" },
+  { name: "GitHub", icon: Github, href: staticProfile.socials.github, handle: "@carlosjulian" },
+  { name: "LinkedIn", icon: Linkedin, href: staticProfile.socials.linkedin, handle: "/in/carlosjulianmx" },
+  { name: "X", icon: Twitter, href: staticProfile.socials.twitter, handle: "@carlosjuliandev" },
+  { name: "Website", icon: Globe, href: staticProfile.socials.website, handle: "carlosjulian.dev" },
 ];
 
 export default function Contact() {
@@ -178,36 +179,36 @@ export default function Contact() {
                   <p className="text-xs text-white/30 mb-3">Other profiles</p>
                   <div className="flex flex-wrap gap-2">
                     <a
-                      href={staticProfile.socials.huggingface}
+                      href={staticProfile.socials.instagram}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-3 py-1.5 bg-white/5 border border-white/10 rounded-lg text-xs text-white/50 hover:text-white hover:border-white/30 transition-all font-mono flex items-center gap-1.5"
                     >
-                      <span>🤗</span> Hugging Face
+                      <span>📷</span> Instagram
                     </a>
                     <a
-                      href={staticProfile.socials.npmjs}
+                      href={staticProfile.socials.youtube}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-3 py-1.5 bg-white/5 border border-white/10 rounded-lg text-xs text-white/50 hover:text-white hover:border-white/30 transition-all font-mono"
                     >
-                      npm
+                      <span className="inline-flex items-center gap-1.5"><Youtube className="w-3 h-3" /> YouTube</span>
                     </a>
                     <a
-                      href={staticProfile.socials.pypi}
+                      href={staticProfile.socials.threads}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-3 py-1.5 bg-white/5 border border-white/10 rounded-lg text-xs text-white/50 hover:text-white hover:border-white/30 transition-all font-mono"
                     >
-                      PyPI
+                      Threads
                     </a>
                     <a
-                      href={staticProfile.socials.orcid}
+                      href={staticProfile.socials.tiktok}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-3 py-1.5 bg-white/5 border border-white/10 rounded-lg text-xs text-white/50 hover:text-white hover:border-white/30 transition-all font-mono"
                     >
-                      ORCID
+                      TikTok
                     </a>
                   </div>
                 </div>

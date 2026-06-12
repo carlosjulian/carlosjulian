@@ -4,8 +4,8 @@ import Footer from "@/components/Footer";
 import { PageTransition } from "@/components/ui/page-transition";
 
 export const metadata = {
-  title: "Experience | Mithun Gowda B",
-  description: "Mithun Gowda B's journey through education, contributions, and professional growth.",
+  title: "Experience | Carlos Julián",
+  description: "Carlos Julián's journey across engineering, AI, software development, and digital creation.",
 };
 
 export default function ExperiencePage() {

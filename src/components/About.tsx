@@ -37,11 +37,10 @@ interface ProfileData {
     linkedin: string;
     twitter: string;
     instagram: string;
-    discord: string;
-    pypi: string;
-    npmjs: string;
-    orcid: string;
-    huggingface: string;
+    youtube: string;
+    website: string;
+    threads: string;
+    tiktok: string;
   };
   nextgenx: {
     instagram: string;
@@ -193,7 +192,7 @@ export default function About({ profile }: { profile: ProfileData }) {
                           <Twitter className="w-4 h-4" />
                         </a>
                       </div>
-                      <span className="text-[10px] font-mono text-orange-500/50">// open to work</span>
+                      <span className="text-[10px] font-mono text-orange-500/50">{"// open to work"}</span>
                     </div>
                   </div>
                 </div>
@@ -223,14 +222,12 @@ export default function About({ profile }: { profile: ProfileData }) {
                   </div>
                 </div>
                 <p className="text-white/60 leading-relaxed mb-6">
-                  I&apos;m an engineering student at <span className="text-white/80">{profile.education.institution}</span> from Karnataka, India,
-                  with a deep passion for software development and artificial intelligence. As <span className="text-white/80">{profile.venture.role}</span> of{" "}
-                  <span className="text-white/80">{profile.venture.name}</span>, I lead a tech exploration and innovation community.
+                  I&apos;m <span className="text-white/80">{profile.name}</span>, a professional focused on engineering, AI, and software development.
+                  My work centers on building practical digital products, experimenting with intelligent systems, and sharing that journey online.
                 </p>
                 <p className="text-white/60 leading-relaxed">
-                  My journey started with curiosity about how things work, leading me to explore everything
-                  from mobile apps to AI frameworks. As an active open-source contributor, I&apos;ve built
-                  projects that gained traction in the developer community.
+                  Through <span className="text-white/80">{profile.venture.name}</span> and my personal projects, I combine technical exploration,
+                  open-source learning, and content creation to keep evolving as a builder.
                 </p>
               </div>
             </GlassCard>
@@ -250,7 +247,7 @@ export default function About({ profile }: { profile: ProfileData }) {
                   <h3 className="text-lg font-semibold text-white">Focus Areas</h3>
                 </div>
                 <div className="space-y-3">
-                  {["AI & ML", "Open Source", "Mobile Dev", "Web Dev"].map((area, index) => (
+                  {["AI Engineering", "Software Development", "Automation", "Open Source"].map((area) => (
                     <div
                       key={area}
                       className="flex items-center gap-3 text-white/50 text-sm"
@@ -307,7 +304,7 @@ export default function About({ profile }: { profile: ProfileData }) {
                   </div>
                 </div>
                 <p className="text-white/60 text-sm leading-relaxed mb-6">
-                  {profile.venture.description} - Building a community of tech enthusiasts and creators exploring the latest in technology.
+                  {profile.venture.description}
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
@@ -413,46 +410,40 @@ export default function About({ profile }: { profile: ProfileData }) {
                     <span>Twitter</span>
                   </a>
                   <a
-                    href={profile.socials.huggingface}
+                    href={profile.socials.website}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-white/60 hover:text-white hover:border-white/30 transition-colors text-sm"
                   >
-                    <span className="text-lg">🤗</span>
-                    <span>Hugging Face</span>
+                    <Globe className="w-4 h-4" />
+                    <span>Website</span>
                   </a>
                   <a
-                    href={profile.socials.npmjs}
+                    href={profile.socials.youtube}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-white/60 hover:text-white hover:border-white/30 transition-colors text-sm"
                   >
-                    <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                      <path d="M0 7.334v8h6.666v1.332H12v-1.332h12v-8H0zm6.666 6.664H5.334v-4H3.999v4H1.335V8.667h5.331v5.331zm4 0v1.336H8.001V8.667h5.334v5.332h-2.669v-.001zm12.001 0h-1.33v-4h-1.336v4h-1.335v-4h-1.33v4h-2.671V8.667h8.002v5.331z"/>
-                    </svg>
-                    <span>npm</span>
+                    <Youtube className="w-4 h-4" />
+                    <span>YouTube</span>
                   </a>
                   <a
-                    href={profile.socials.pypi}
+                    href={profile.socials.threads}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-white/60 hover:text-white hover:border-white/30 transition-colors text-sm"
                   >
-                    <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                      <path d="M12.042 0L3.46 4.962v14.076L12.042 24l8.58-4.962V4.962L12.042 0zM6.464 17.17V6.83L12 3.866l5.537 2.965v10.338L12 20.134l-5.536-2.965z"/>
-                    </svg>
-                    <span>PyPI</span>
+                    <ExternalLink className="w-4 h-4" />
+                    <span>Threads</span>
                   </a>
                   <a
-                    href={profile.socials.orcid}
+                    href={profile.socials.tiktok}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-white/60 hover:text-white hover:border-white/30 transition-colors text-sm"
                   >
-                    <svg className="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
-                      <path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
-                    </svg>
-                    <span>ORCID</span>
+                    <ExternalLink className="w-4 h-4" />
+                    <span>TikTok</span>
                   </a>
                 </div>
               </div>

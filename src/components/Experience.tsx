@@ -171,16 +171,16 @@ export default function Experience() {
                     Contribution Activity
                   </h3>
                   <p className="text-white/40 text-sm">
-                    Consistent contributions across open-source projects
+                    Personal and open-source activity across GitHub
                   </p>
                 </div>
                 <a
-                  href="https://github.com/mithun50"
+                  href="https://github.com/carlosjulian"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-white/40 hover:text-white transition-colors flex items-center gap-2 text-sm font-mono"
                 >
-                  @mithun50
+                  @carlosjulian
                   <ArrowUpRight className="w-4 h-4" />
                 </a>
               </div>
@@ -188,7 +188,7 @@ export default function Experience() {
               <div className="overflow-x-auto pb-2">
                 <div className="min-w-[700px] md:min-w-0 md:flex md:justify-center">
                   <img
-                    src="https://ghchart.rshah.org/40c463/mithun50"
+                    src="https://ghchart.rshah.org/40c463/carlosjulian"
                     alt="GitHub Contribution Chart"
                     className="w-full max-w-2xl rounded-lg hover:opacity-90 transition-opacity"
                   />

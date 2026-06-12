@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Mithun%20Gowda%20B&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cybersecurity&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Carlos%20Juli%C3%A1n&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20IA%20Engineer%20%7C%20Developer&descSize=18&descAlignY=55"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%7C+Open+Source+Advocate)](https://mithungowda.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%A4%96+Building+with+AI+and+software;%F0%9F%9A%80+Engineering+practical+digital+products)](https://carlosjulian.dev)
 
-<a href="https://mithungowda.in"><img src="https://img.shields.io/badge/%F0%9F%8C%90_mithungowda.in-Visit_Portfolio-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="https://mithungowda.in/resume.html"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-View_Resume-1a6dd4?style=for-the-badge&labelColor=1a1a2e"/></a>
-<img src="https://img.shields.io/badge/Based_in-Karnataka,_India-16a34a?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Coding_From-Termux_on_Android-f97316?style=for-the-badge&labelColor=1a1a2e&logo=android"/>
+<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_carlosjulian.dev-Visit_Portfolio-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%93%A7_ing%40carlosjulian.dev-Contact-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
+<img src="https://img.shields.io/badge/Based_in-Chiapas%2C_M%C3%A9xico-16a34a?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Focus-AI_Engineering_%26_Development-f97316?style=for-the-badge&labelColor=1a1a2e"/>
 
 </div>
 
@@ -16,9 +16,9 @@
 <!-- Snake Animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mithun50/mithun50/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlosjulian/carlosjulian/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlosjulian/carlosjulian/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/carlosjulian/carlosjulian/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -31,31 +31,28 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```js
-const mithun = {
+const carlos = {
   pronouns: "he" | "him",
-  location: "Karnataka, India",
+  location: "Chiapas, México",
 
-  education: {
-    institution: "DBIT",
-    degree: "Engineering",
-    year: "1st Year"
-  },
+  role: "Mechatronics Engineer | IA Engineer | Developer",
 
-  roles: [
-    "Co-Founder @ NextGenXplorrers",
-    "Open Source Contributor",
-    "AI Framework Developer",
-    "Cybersecurity Enthusiast"
-  ],
+  focus: ["AI Engineering", "Software Development", "Automation"],
 
-  currentlyLearning: ["System Design", "ML/AI", "Pentesting"],
+  currentlyBuilding: ["Practical digital products", "Developer workflows", "Engineering content"],
 
-  funFact: "I push code from Termux",
+  currentlyLearning: ["Applied AI", "Systems thinking", "Product engineering"],
 
   askMeAbout: [
-    "Python", "AI Frameworks",
-    "MCP Development", "Cybersecurity"
-  ]
+    "Python", "TypeScript", "Next.js",
+    "AI workflows", "Automation", "GitHub"
+  ],
+
+  links: {
+    website: "https://carlosjulian.dev",
+    github: "https://github.com/carlosjulian",
+    linkedin: "https://www.linkedin.com/in/carlosjulianmx"
+  }
 };
 ```
 
@@ -64,11 +61,11 @@ const mithun = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mithun50&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosjulian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=mithun50&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=carlosjulian&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="100%"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mithun50&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosjulian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&langs_count=8" width="100%"/>
 
 </td>
 </tr>
@@ -91,14 +88,14 @@ const mithun = {
 ![C++](https://img.shields.io/badge/C++-DSA-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)
 
-**Cybersecurity**
+**AI, Automation & Engineering**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=1a1a2e)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=1a1a2e)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=1a1a2e)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white&labelColor=1a1a2e)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white&labelColor=1a1a2e)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white&labelColor=1a1a2e)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=1a1a2e)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
 
 **Frameworks & Tools**
 
@@ -110,58 +107,25 @@ const mithun = {
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Open Source Journey
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Focus
 
 <div align="center">
 
-### 🏆 Major Contributions
+![AI Engineering](https://img.shields.io/badge/AI-Engineering-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![Automation](https://img.shields.io/badge/Automation-Workflows-0EA5E9?style=for-the-badge&labelColor=1a1a2e)
+![Software Development](https://img.shields.io/badge/Software-Development-22C55E?style=for-the-badge&labelColor=1a1a2e)
+![Content Creation](https://img.shields.io/badge/Content-Ingtelecto-F97316?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Anthropic-Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<br/><br/>
-<b>SuperClaude</b>
-<br/>
-<sub>AI Framework for Claude</sub>
-<br/><br/>
-<a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/View-Project-A855F7?style=flat-square"/></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Google-SecOps_Wrapper-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<br/><br/>
-<b>SecOps SDK</b>
-<br/>
-<sub>Security Automation</sub>
-<br/><br/>
-<a href="https://github.com/google/secops-wrapper"><img src="https://img.shields.io/badge/View-Project-A855F7?style=flat-square"/></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/AOSSIE-Devr.AI-FF6B6B?style=for-the-badge&logo=probot&logoColor=white"/>
-<br/><br/>
-<b>Devr.AI</b>
-<br/>
-<sub>AI DevRel Assistant</sub>
-<br/><br/>
-<a href="https://github.com/AOSSIE-Org/Devr.AI"><img src="https://img.shields.io/badge/View-Project-A855F7?style=flat-square"/></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Community-Engineering_Kannada-16a34a?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<br/><br/>
-<b>Eng Kannada</b>
-<br/>
-<sub>Regional Education</sub>
-<br/><br/>
-<a href="https://engineeringinkannada.in"><img src="https://img.shields.io/badge/View-Project-A855F7?style=flat-square"/></a>
-</td>
-</tr>
-</table>
+- Building practical products with AI, software, and automation.
+- Exploring public repositories and shipping experiments on GitHub.
+- Growing `Ingtelecto` across social platforms with engineering-focused content.
+- Curating featured repositories through my portfolio and GitHub activity.
 
 <div align="center">
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=mithun50&theme=radical&limit=10&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
+![Contributions](https://github-contributor-stats.vercel.app/api?username=carlosjulian&theme=radical&limit=10&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -171,7 +135,7 @@ const mithun = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithun50&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosjulian&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -181,11 +145,11 @@ const mithun = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithun50&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosjulian&theme=radical" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithun50&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithun50&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mithun50&theme=radical&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosjulian&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosjulian&theme=radical" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosjulian&theme=radical&utcOffset=-6" width="32%"/>
 
 </div>
 
@@ -197,7 +161,7 @@ const mithun = {
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=mithun50&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=carlosjulian&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
 
 </div>
 
@@ -219,14 +183,14 @@ const mithun = {
 
 <div align="center">
 
-<a href="https://instagram.com/nexgenxplorerr">
-<img src="https://img.shields.io/badge/NextGenXplorrers-Co--Founder-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.instagram.com/carlosjulian_tech/">
+<img src="https://img.shields.io/badge/Ingtelecto-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://youtube.com/@nexgenxplorer">
-<img src="https://img.shields.io/badge/YouTube-@nexgenxplorer-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.youtube.com/@ingtelecto">
+<img src="https://img.shields.io/badge/YouTube-@ingtelecto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://play.google.com/store/apps/dev?id=8262374975871504599">
-<img src="https://img.shields.io/badge/Play_Store-Published_Apps-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://www.tiktok.com/@ingtelectomx">
+<img src="https://img.shields.io/badge/TikTok-@ingtelectomx-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
 </div>
@@ -237,20 +201,20 @@ const mithun = {
 
 <div align="center">
 
-<a href="https://mithungowda.in"><img src="https://img.shields.io/badge/Portfolio-mithungowda.in-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:mithungowda.b7411@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/Portfolio-carlosjulian.dev-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/mithun50"><img src="https://img.shields.io/badge/GitHub-mithun50-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/mithungowdab"><img src="https://img.shields.io/badge/LinkedIn-mithungowdab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://x.com/mithungowdab"><img src="https://img.shields.io/badge/X-@mithungowdab-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://github.com/carlosjulian"><img src="https://img.shields.io/badge/GitHub-carlosjulian-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/carlosjulianmx"><img src="https://img.shields.io/badge/LinkedIn-carlosjulianmx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://x.com/carlosjuliandev"><img src="https://img.shields.io/badge/X-@carlosjuliandev-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
-<a href="https://pypi.org/user/mithungowda.b"><img src="https://img.shields.io/badge/PyPI-Packages-3775A9?style=for-the-badge&logo=pypi&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://npmjs.com/~mithun50"><img src="https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://discord.gg/eamXcxtd"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.instagram.com/carlosjulian_tech/"><img src="https://img.shields.io/badge/Instagram-carlosjulian__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.youtube.com/@ingtelecto"><img src="https://img.shields.io/badge/YouTube-@ingtelecto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.threads.com/@carlosjulian_tech"><img src="https://img.shields.io/badge/Threads-@carlosjulian__tech-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=1a1a2e"/></a>
 
 </div>
 
@@ -268,11 +232,11 @@ const mithun = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mithun50&label=Profile%20Views&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=carlosjulian&label=Profile%20Views&color=A855F7&style=for-the-badge"/>
 
 **<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Thanks for stopping by!**
 
-*"The best way to predict the future is to create it."*
+*"Build with intention, learn in public, and keep shipping."*
 
 </div>
 

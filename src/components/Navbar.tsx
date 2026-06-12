@@ -14,7 +14,7 @@ const navItems = [
   { name: "Projects", href: "/projects", icon: FolderGit2, external: false },
   { name: "Experience", href: "/experience", icon: Briefcase, external: false },
   { name: "Contact", href: "/contact", icon: Mail, external: false },
-  { name: "Resume", href: "/resume.html", icon: FileText, external: true },
+  { name: "Website", href: profile.resumeUrl, icon: FileText, external: true },
 ];
 
 export default function Navbar() {
@@ -48,8 +48,8 @@ export default function Navbar() {
               whileHover={{ scale: 1.02 }}
             >
               <span className="text-lg font-bold tracking-tight">
-                <span className="text-white">Mithun </span>
-                <span className="text-orange-500">Gowda B</span>
+                <span className="text-white">Carlos </span>
+                <span className="text-orange-500">Julián</span>
               </span>
             </motion.div>
           </Link>

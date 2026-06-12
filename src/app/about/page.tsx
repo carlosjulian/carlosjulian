@@ -8,8 +8,8 @@ import { getDynamicProfile, getDynamicSkills } from "@/lib/data";
 export const revalidate = 3600; // Revalidate every hour
 
 export const metadata = {
-  title: "About | Mithun Gowda B",
-  description: "Learn more about Mithun Gowda B - Engineering student, full-stack developer, and open-source contributor.",
+  title: "About | Carlos Julián",
+  description: "Learn more about Carlos Julián, his engineering background, and his focus on AI and software development.",
 };
 
 export default async function AboutPage() {
