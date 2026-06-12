@@ -153,17 +153,22 @@ const carlos = {
 
 </div>
 
-- Turning complex ideas into functional web platforms, prototypes and automation systems.
-- Building AI-assisted products for internal tools, educational platforms, ecommerce and business workflows.
-- Exploring 3D visualization for product displays, planograms, interfaces and interactive technical experiences.
-- Using LLMs, agents and automation to accelerate research, development, content creation and deployment.
-- Growing a personal ecosystem of engineering, education and technology projects across web and social platforms.
+- Convierto ideas complejas en productos digitales funcionales: plataformas web, prototipos interactivos, sistemas internos y soluciones automatizadas.
 
-<div align="center">
+- Desarrollo herramientas asistidas por inteligencia artificial para educación, ecommerce, flujos empresariales, generación de contenido y toma de decisiones técnicas.
 
-![Contributions](https://github-contributor-stats.vercel.app/api?username=carlosjulian&theme=radical&limit=10&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
+- Construyo experiencias 3D en la web para visualización de productos, planogramas, interfaces interactivas, simuladores y presentaciones técnicas de alto impacto.
 
-</div>
+- Utilizo LLMs, agentes de IA y automatización para optimizar investigación, desarrollo de software, documentación, despliegue y creación de contenido.
+
+- Diseño soluciones full-stack integrando frontend moderno, backend, APIs, bases de datos, infraestructura Linux, servicios cloud y pipelines de automatización.
+
+- Modernizo plataformas WordPress con enfoque en rendimiento, SEO, monetización, arquitectura de contenido, plugins personalizados y experiencia de usuario.
+
+- Combino ingeniería, educación, inteligencia artificial y desarrollo web para construir productos útiles, escalables y orientados a resolver problemas reales.
+
+- Impulso un ecosistema de proyectos propios enfocados en tecnología educativa, automatización, ciencia, ingeniería, contenido digital y experimentación con IA.
+
 
 ---
 
