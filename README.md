@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%A4%96+Construyendo+con+IA+y+software;%F0%9F%9A%80+Ingenier%C3%ADa+de+productos+digitales+pr%C3%A1cticos)](https://carlosjulian.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=90&lines=%F0%9F%A4%96+Construyendo+sistemas+con+agentes+de+IA;%F0%9F%9A%80+Automatizando+software%2C+contenido+y+productos+digitales)](https://carlosjulian.dev)
 
 <a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_carlosjulian.dev-Visitar_Portafolio-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
 <a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%93%A7_ing%40carlosjulian.dev-Contacto-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
@@ -140,6 +140,7 @@ const carlos = {
 ![Mathematics](https://img.shields.io/badge/Mathematics-Problem%20Solving-7B1FA2?style=flat-square&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e)
 
 </div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Enfoque Actual
@@ -303,7 +304,7 @@ const carlos = {
 
 **<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Gracias por pasar!**
 
-*"Construye con intención, aprende en público y sigue lanzando."*
+*"Diseñar inteligencia, automatizar sistemas y construir productos que convierten ideas en impacto real."*
 
 </div>
 
