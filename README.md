@@ -140,23 +140,24 @@ const carlos = {
 ![Mathematics](https://img.shields.io/badge/Mathematics-Problem%20Solving-7B1FA2?style=flat-square&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e)
 
 </div>
----
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Focus
 
 <div align="center">
 
-![AI Engineering](https://img.shields.io/badge/AI-Engineering-A855F7?style=for-the-badge&labelColor=1a1a2e)
-![Automation](https://img.shields.io/badge/Automation-Workflows-0EA5E9?style=for-the-badge&labelColor=1a1a2e)
-![Software Development](https://img.shields.io/badge/Software-Development-22C55E?style=for-the-badge&labelColor=1a1a2e)
-![Content Creation](https://img.shields.io/badge/Content-Ingtelecto-F97316?style=for-the-badge&labelColor=1a1a2e)
+![AI Systems](https://img.shields.io/badge/AI-Systems%20Engineering-A855F7?style=for-the-badge&labelColor=1a1a2e)
+![3D Applications](https://img.shields.io/badge/3D-Interactive%20Apps-22C55E?style=for-the-badge&labelColor=1a1a2e)
+![Automation](https://img.shields.io/badge/Automation-Agentic%20Workflows-0EA5E9?style=for-the-badge&labelColor=1a1a2e)
+![Web Platforms](https://img.shields.io/badge/Web-Platforms-3178C6?style=for-the-badge&labelColor=1a1a2e)
+![STEM Content](https://img.shields.io/badge/STEM-Content%20Creation-F97316?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
-- Building practical products with AI, software, and automation.
-- Exploring public repositories and shipping experiments on GitHub.
-- Growing `Ingtelecto` across social platforms with engineering-focused content.
-- Curating featured repositories through my portfolio and GitHub activity.
+- Turning complex ideas into functional web platforms, prototypes and automation systems.
+- Building AI-assisted products for internal tools, educational platforms, ecommerce and business workflows.
+- Exploring 3D visualization for product displays, planograms, interfaces and interactive technical experiences.
+- Using LLMs, agents and automation to accelerate research, development, content creation and deployment.
+- Growing a personal ecosystem of engineering, education and technology projects across web and social platforms.
 
 <div align="center">
 
