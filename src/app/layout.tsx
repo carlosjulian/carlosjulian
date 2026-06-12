@@ -23,7 +23,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Carlos Julián | Mechatronics Engineer, IA Engineer & Developer",
+  title: "Carlos Julián | Mechatronics Engineer, AI Engineer & Full Stack Developer",
   description:
     "Portfolio of Carlos Julián - mechatronics engineer focused on AI engineering, software development, and practical digital products.",
   keywords: [

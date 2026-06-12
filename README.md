@@ -35,7 +35,7 @@ const carlos = {
   pronouns: "he" | "him",
   location: "Chiapas, México",
 
-  role: "Mechatronics Engineer | IA Engineer | Developer",
+  role: "Mechatronics Engineer | AI Engineer | Full Stack Developer",
 
   focus: ["AI Engineering", "Software Development", "Automation"],
 
@@ -140,7 +140,7 @@ const carlos = {
 ![Mathematics](https://img.shields.io/badge/Mathematics-Problem%20Solving-7B1FA2?style=flat-square&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e)
 
 </div>
-
+---
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Focus
 
 <div align="center">
@@ -169,6 +169,34 @@ const carlos = {
 
 - Impulso un ecosistema de proyectos propios enfocados en tecnología educativa, automatización, ciencia, ingeniería, contenido digital y experimentación con IA.
 
+
+---
+
+---
+
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Digital Ecosystem
+
+<div align="center">
+
+<a href="https://www.fisimat.com.mx">
+<img src="https://img.shields.io/badge/Fisimat-STEM%20Education-2563EB?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<a href="https://ingtelecto.com">
+<img src="https://img.shields.io/badge/Ingtelecto-Engineering%20Content-F97316?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<a href="https://laplacianos.com">
+<img src="https://img.shields.io/badge/Laplacianos-Science%20%26%20Knowledge-22C55E?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<a href="https://carlosjulian.dev">
+<img src="https://img.shields.io/badge/Portfolio-carlosjulian.dev-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+
+</div>
+
+- **Fisimat** — Plataforma educativa enfocada en física, matemáticas, recursos académicos y preparación STEM.
+- **Ingtelecto** — Proyecto de contenido sobre ingeniería, tecnología, robótica, programación e inteligencia artificial.
+- **Laplacianos** — Espacio digital para ciencia, conocimiento, divulgación y aprendizaje.
+- **CarlosJulián.dev** — Portafolio profesional, laboratorio personal y vitrina de proyectos técnicos.
 
 ---
 
