@@ -77,34 +77,69 @@ const carlos = {
 
 <div align="center">
 
-**Languages**
+## 🧠 Carlos Julián — AI, Web & 3D Engineering Stack
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+### Core Languages
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat-square&logo=dart&logoColor=white&labelColor=1a1a2e)
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1a2e)
-![Kotlin](https://img.shields.io/badge/Kotlin-Learning-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=1a1a2e)
-![C++](https://img.shields.io/badge/C++-DSA-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)
+![PHP](https://img.shields.io/badge/PHP-WordPress%20%26%20Backend-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=1a1a2e)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20PostgreSQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e)
+![Bash](https://img.shields.io/badge/Bash-Linux%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)
 
-**AI, Automation & Engineering**
+### Frontend, UI & 3D Web
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1a2e)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=1a1a2e)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
+![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1a1a2e)
+![Three.js](https://img.shields.io/badge/Three.js-3D%20Web-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=1a1a2e)
+![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-Planograms%203D-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI%20Systems-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Design%20Systems-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=1a1a2e)
 
-**Frameworks & Tools**
+### Backend, APIs & Automation
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,flutter,nodejs,express,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,firebase,vercel,netlify,gcp,tensorflow&theme=dark" />
+![Node.js](https://img.shields.io/badge/Node.js-Backend%20APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
+![Express](https://img.shields.io/badge/Express-REST%20APIs-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e)
+![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-Integration%20Layer-02569B?style=flat-square&logo=postman&logoColor=white&labelColor=1a1a2e)
+
+### AI, Agents & Intelligent Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM%20Apps-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
+![Claude](https://img.shields.io/badge/Claude-AI%20Agents-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)
+![Gemini](https://img.shields.io/badge/Gemini-AI%20Workflows-4285F4?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Agentic%20Workflows-8A2BE2?style=flat-square&logo=sparkles&logoColor=white&labelColor=1a1a2e)
+![MCP](https://img.shields.io/badge/MCP-Agent%20Tooling-222222?style=flat-square&logo=protocols&logoColor=white&labelColor=1a1a2e)
+![Automation](https://img.shields.io/badge/Automation-Content%20%26%20Backend-FF6F00?style=flat-square&logo=zapier&logoColor=white&labelColor=1a1a2e)
+
+### WordPress, SEO & Content Platforms
+
+![WordPress](https://img.shields.io/badge/WordPress-Custom%20Themes%20%26%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=1a1a2e)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white&labelColor=1a1a2e)
+![SEO](https://img.shields.io/badge/SEO-High%20Traffic%20Content-47A248?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=1a1a2e)
+![AdSense](https://img.shields.io/badge/AdSense-Monetization-4285F4?style=flat-square&logo=googleadsense&logoColor=white&labelColor=1a1a2e)
+
+### DevOps, Cloud & Deployment
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%20Servers-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-Local%20%26%20Production-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=1a1a2e)
+![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?style=flat-square&logo=apache&logoColor=white&labelColor=1a1a2e)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN%20%26%20Security-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=1a1a2e)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend%20Deployments-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)
+![OVH](https://img.shields.io/badge/OVH-VPS%20Infrastructure-123F6D?style=flat-square&logo=ovh&logoColor=white&labelColor=1a1a2e)
+
+### Engineering, Robotics & Education
+
+![Arduino](https://img.shields.io/badge/Arduino-Robotics%20%26%20IoT-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Physical%20Computing-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=white&labelColor=1a1a2e)
+![MATLAB](https://img.shields.io/badge/MATLAB-Engineering%20Math-0076A8?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1a2e)
+![Physics](https://img.shields.io/badge/Physics-STEM%20Education-1E88E5?style=flat-square&logo=academia&logoColor=white&labelColor=1a1a2e)
+![Mathematics](https://img.shields.io/badge/Mathematics-Problem%20Solving-7B1FA2?style=flat-square&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e)
 
 </div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Focus
