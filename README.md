@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Carlos%20Juli%C3%A1n&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20IA%20Engineer%20%7C%20Developer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=Carlos%20Juli%C3%A1n&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mechatronics%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%A4%96+Building+with+AI+and+software;%F0%9F%9A%80+Engineering+practical+digital+products)](https://carlosjulian.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%F0%9F%A4%96+Construyendo+con+IA+y+software;%F0%9F%9A%80+Ingenier%C3%ADa+de+productos+digitales+pr%C3%A1cticos)](https://carlosjulian.dev)
 
-<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_carlosjulian.dev-Visit_Portfolio-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
-<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%93%A7_ing%40carlosjulian.dev-Contact-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
-<img src="https://img.shields.io/badge/Based_in-Chiapas%2C_M%C3%A9xico-16a34a?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Focus-AI_Engineering_%26_Development-f97316?style=for-the-badge&labelColor=1a1a2e"/>
+<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_carlosjulian.dev-Visitar_Portafolio-A855F7?style=for-the-badge&labelColor=1a1a2e"/></a>
+<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/%F0%9F%93%A7_ing%40carlosjulian.dev-Contacto-EA4335?style=for-the-badge&labelColor=1a1a2e"/></a>
+<img src="https://img.shields.io/badge/Ubicado_en-Chiapas%2C_M%C3%A9xico-16a34a?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Enfoque-Ingenier%C3%ADa_IA_%26_Desarrollo-f97316?style=for-the-badge&labelColor=1a1a2e"/>
 
 </div>
 
@@ -28,28 +28,28 @@
 <tr>
 <td width="50%" valign="top">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
 
 ```js
 const carlos = {
-  pronouns: "he" | "him",
-  location: "Chiapas, México",
+  pronombres: "él",
+  ubicacion: "Chiapas, México",
 
-  role: "Mechatronics Engineer | AI Engineer | Full Stack Developer",
+  rol: "Ingeniero Mecatrónico | Ingeniero IA | Desarrollador Full Stack",
 
-  focus: ["AI Engineering", "Software Development", "Automation"],
+  enfoque: ["Ingeniería IA", "Desarrollo de Software", "Automatización"],
 
-  currentlyBuilding: ["Practical digital products", "Developer workflows", "Engineering content"],
+  actualmenteConstruyendo: ["Productos digitales prácticos", "Flujos de desarrollo", "Contenido de ingeniería"],
 
-  currentlyLearning: ["Applied AI", "Systems thinking", "Product engineering"],
+  actualmenteAprendiendo: ["IA Aplicada", "Pensamiento de sistemas", "Ingeniería de productos"],
 
-  askMeAbout: [
+  preguntameSobre: [
     "Python", "TypeScript", "Next.js",
-    "AI workflows", "Automation", "GitHub"
+    "Flujos de IA", "Automatización", "GitHub"
   ],
 
-  links: {
-    website: "https://carlosjulian.dev",
+  enlaces: {
+    sitioWeb: "https://carlosjulian.dev",
     github: "https://github.com/carlosjulian",
     linkedin: "https://www.linkedin.com/in/carlosjulianmx"
   }
@@ -59,7 +59,7 @@ const carlos = {
 </td>
 <td width="50%" valign="top">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estadísticas de GitHub
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosjulian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" width="100%"/>
 
@@ -73,13 +73,13 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Arsenal
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Arsenal Tecnológico
 
 <div align="center">
 
-## 🧠 Carlos Julián — AI, Web & 3D Engineering Stack
+## 🧠 Carlos Julián — Stack de Ingeniería IA, Web y 3D
 
-### Core Languages
+### Lenguajes Principales
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
@@ -88,7 +88,7 @@ const carlos = {
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20PostgreSQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e)
 ![Bash](https://img.shields.io/badge/Bash-Linux%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)
 
-### Frontend, UI & 3D Web
+### Frontend, UI y Web 3D
 
 ![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
 ![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1a1a2e)
@@ -97,7 +97,7 @@ const carlos = {
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI%20Systems-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Design%20Systems-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=1a1a2e)
 
-### Backend, APIs & Automation
+### Backend, APIs y Automatización
 
 ![Node.js](https://img.shields.io/badge/Node.js-Backend%20APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
 ![Express](https://img.shields.io/badge/Express-REST%20APIs-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e)
@@ -105,7 +105,7 @@ const carlos = {
 ![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-Integration%20Layer-02569B?style=flat-square&logo=postman&logoColor=white&labelColor=1a1a2e)
 
-### AI, Agents & Intelligent Systems
+### IA, Agentes y Sistemas Inteligentes
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM%20Apps-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
 ![Claude](https://img.shields.io/badge/Claude-AI%20Agents-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)
@@ -114,14 +114,14 @@ const carlos = {
 ![MCP](https://img.shields.io/badge/MCP-Agent%20Tooling-222222?style=flat-square&logo=protocols&logoColor=white&labelColor=1a1a2e)
 ![Automation](https://img.shields.io/badge/Automation-Content%20%26%20Backend-FF6F00?style=flat-square&logo=zapier&logoColor=white&labelColor=1a1a2e)
 
-### WordPress, SEO & Content Platforms
+### WordPress, SEO y Plataformas de Contenido
 
 ![WordPress](https://img.shields.io/badge/WordPress-Custom%20Themes%20%26%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=1a1a2e)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white&labelColor=1a1a2e)
 ![SEO](https://img.shields.io/badge/SEO-High%20Traffic%20Content-47A248?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=1a1a2e)
 ![AdSense](https://img.shields.io/badge/AdSense-Monetization-4285F4?style=flat-square&logo=googleadsense&logoColor=white&labelColor=1a1a2e)
 
-### DevOps, Cloud & Deployment
+### DevOps, Cloud y Despliegue
 
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20Servers-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
 ![Docker](https://img.shields.io/badge/Docker-Local%20%26%20Production-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
@@ -131,7 +131,7 @@ const carlos = {
 ![Vercel](https://img.shields.io/badge/Vercel-Frontend%20Deployments-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)
 ![OVH](https://img.shields.io/badge/OVH-VPS%20Infrastructure-123F6D?style=flat-square&logo=ovh&logoColor=white&labelColor=1a1a2e)
 
-### Engineering, Robotics & Education
+### Ingeniería, Robótica y Educación
 
 ![Arduino](https://img.shields.io/badge/Arduino-Robotics%20%26%20IoT-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Physical%20Computing-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=white&labelColor=1a1a2e)
@@ -141,7 +141,7 @@ const carlos = {
 
 </div>
 ---
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Current Focus
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Enfoque Actual
 
 <div align="center">
 
@@ -169,26 +169,23 @@ const carlos = {
 
 - Impulso un ecosistema de proyectos propios enfocados en tecnología educativa, automatización, ciencia, ingeniería, contenido digital y experimentación con IA.
 
-
 ---
 
----
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Digital Ecosystem
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Ecosistema Digital
 
 <div align="center">
 
 <a href="https://www.fisimat.com.mx">
-<img src="https://img.shields.io/badge/Fisimat-STEM%20Education-2563EB?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Fisimat-Educaci%C3%B3n%20STEM-2563EB?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 <a href="https://ingtelecto.com">
-<img src="https://img.shields.io/badge/Ingtelecto-Engineering%20Content-F97316?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Ingtelecto-Contenido%20de%20Ingenier%C3%ADa-F97316?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 <a href="https://laplacianos.com">
-<img src="https://img.shields.io/badge/Laplacianos-Science%20%26%20Knowledge-22C55E?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Laplacianos-Ciencia%20y%20Conocimiento-22C55E?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 <a href="https://carlosjulian.dev">
-<img src="https://img.shields.io/badge/Portfolio-carlosjulian.dev-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Portafolio-carlosjulian.dev-A855F7?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 
 </div>
@@ -200,16 +197,16 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Analytics & Metrics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Analítica y Métricas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosjulian&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosjulian&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Gr%C3%A1fica%20de%20Contribuciones" width="100%"/>
 
 </div>
 
 <details>
-<summary><b>📊 More Stats</b></summary>
+<summary><b>📊 Más Estadísticas</b></summary>
 <br/>
 
 <div align="center">
@@ -225,7 +222,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>🏆 GitHub Trophies</b></summary>
+<summary><b>🏆 Trofeos de GitHub</b></summary>
 <br/>
 
 <div align="center">
@@ -237,7 +234,7 @@ const carlos = {
 </details>
 
 <details>
-<summary><b>📈 3D Contribution Graph</b></summary>
+<summary><b>📈 Gráfica de Contribuciones 3D</b></summary>
 <br/>
 
 <div align="center">
@@ -248,7 +245,7 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> My Ventures
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Mis Proyectos
 
 <div align="center">
 
@@ -266,12 +263,12 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Connect & Collaborate
+## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Conecta y Colabora
 
 <div align="center">
 
-<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/Portfolio-carlosjulian.dev-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://carlosjulian.dev"><img src="https://img.shields.io/badge/Portafolio-carlosjulian.dev-A855F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:ing@carlosjulian.dev"><img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/><br/>
 
@@ -291,7 +288,7 @@ const carlos = {
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 Cita Aleatoria de Desarrollador
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -301,11 +298,11 @@ const carlos = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=carlosjulian&label=Profile%20Views&color=A855F7&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=carlosjulian&label=Vistas%20de%20Perfil&color=A855F7&style=for-the-badge"/>
 
-**<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Thanks for stopping by!**
+**<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Gracias por pasar!**
 
-*"Build with intention, learn in public, and keep shipping."*
+*"Construye con intención, aprende en público y sigue lanzando."*
 
 </div>
 
