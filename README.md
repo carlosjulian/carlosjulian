@@ -180,5 +180,3 @@ ECOSISTEMA TOTAL — AÑO 2025:
 *"Diseñar inteligencia, automatizar sistemas y construir productos que convierten ideas en impacto real."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer"/>
