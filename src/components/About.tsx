@@ -1,8 +1,8 @@
 "use client";
 
-import { motion, useInView, useMotionValue, useSpring, useTransform } from "framer-motion";
+import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
-import { Code2, Users, GitFork, Sparkles, Terminal, Zap, Globe, GraduationCap, Rocket, Youtube, PlayCircle, Github, Linkedin, Twitter, ExternalLink, MapPin } from "lucide-react";
+import { Terminal, Zap, Globe, GraduationCap, Rocket, Youtube, PlayCircle, Github, Linkedin, Twitter, ExternalLink } from "lucide-react";
 import { DynamicIcon } from "@/components/ui/dynamic-icon";
 import { GlassCard } from "@/components/ui/glass-card";
 import Image from "next/image";

@@ -28,7 +28,7 @@
 <tr>
 <td width="50%" valign="top">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
+## 👨‍💻 Sobre Mí
 
 ```js
 const carlos = {
@@ -59,7 +59,7 @@ const carlos = {
 </td>
 <td width="50%" valign="top">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosjulian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" width="100%"/>
 
@@ -73,77 +73,33 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Arsenal Tecnológico
+## 🛠️ Arsenal Tecnológico
 
 <div align="center">
 
-## 🧠 Carlos Julián — Stack de Ingeniería IA, Web y 3D
-
-### Lenguajes Principales
-
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
-![PHP](https://img.shields.io/badge/PHP-WordPress%20%26%20Backend-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=1a1a2e)
-![SQL](https://img.shields.io/badge/SQL-MySQL%20%2F%20PostgreSQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1a2e)
-![Bash](https://img.shields.io/badge/Bash-Linux%20Automation-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a2e)
-
-### Frontend, UI y Web 3D
-
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
-![Next.js](https://img.shields.io/badge/Next.js-App%20Router-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1a1a2e)
-![Three.js](https://img.shields.io/badge/Three.js-3D%20Web-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=1a1a2e)
-![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-Planograms%203D-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI%20Systems-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-Design%20Systems-000000?style=flat-square&logo=shadcnui&logoColor=white&labelColor=1a1a2e)
-
-### Backend, APIs y Automatización
-
-![Node.js](https://img.shields.io/badge/Node.js-Backend%20APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
-![Express](https://img.shields.io/badge/Express-REST%20APIs-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1a2e)
-![FastAPI](https://img.shields.io/badge/FastAPI-Python%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e)
-![Flask](https://img.shields.io/badge/Flask-Microservices-000000?style=flat-square&logo=flask&logoColor=white&labelColor=1a1a2e)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-Integration%20Layer-02569B?style=flat-square&logo=postman&logoColor=white&labelColor=1a1a2e)
-
-### IA, Agentes y Sistemas Inteligentes
-
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM%20Apps-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
-![Claude](https://img.shields.io/badge/Claude-AI%20Agents-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)
-![Gemini](https://img.shields.io/badge/Gemini-AI%20Workflows-4285F4?style=flat-square&logo=googlegemini&logoColor=white&labelColor=1a1a2e)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-Agentic%20Workflows-8A2BE2?style=flat-square&logo=sparkles&logoColor=white&labelColor=1a1a2e)
-![MCP](https://img.shields.io/badge/MCP-Agent%20Tooling-222222?style=flat-square&logo=protocols&logoColor=white&labelColor=1a1a2e)
-![Automation](https://img.shields.io/badge/Automation-Content%20%26%20Backend-FF6F00?style=flat-square&logo=zapier&logoColor=white&labelColor=1a1a2e)
-
-### WordPress, SEO y Plataformas de Contenido
-
-![WordPress](https://img.shields.io/badge/WordPress-Custom%20Themes%20%26%20Plugins-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=1a1a2e)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-Ecommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white&labelColor=1a1a2e)
-![SEO](https://img.shields.io/badge/SEO-High%20Traffic%20Content-47A248?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=1a1a2e)
-![AdSense](https://img.shields.io/badge/AdSense-Monetization-4285F4?style=flat-square&logo=googleadsense&logoColor=white&labelColor=1a1a2e)
-
-### DevOps, Cloud y Despliegue
-
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%20Servers-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
-![Docker](https://img.shields.io/badge/Docker-Local%20%26%20Production-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
-![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=1a1a2e)
-![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?style=flat-square&logo=apache&logoColor=white&labelColor=1a1a2e)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN%20%26%20Security-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=1a1a2e)
-![Vercel](https://img.shields.io/badge/Vercel-Frontend%20Deployments-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a2e)
-![OVH](https://img.shields.io/badge/OVH-VPS%20Infrastructure-123F6D?style=flat-square&logo=ovh&logoColor=white&labelColor=1a1a2e)
-
-### Ingeniería, Robótica y Educación
-
-![Arduino](https://img.shields.io/badge/Arduino-Robotics%20%26%20IoT-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Physical%20Computing-A22846?style=flat-square&logo=raspberrypi&logoColor=white&labelColor=white&labelColor=1a1a2e)
-![MATLAB](https://img.shields.io/badge/MATLAB-Engineering%20Math-0076A8?style=flat-square&logo=mathworks&logoColor=white&labelColor=1a1a2e)
-![Physics](https://img.shields.io/badge/Physics-STEM%20Education-1E88E5?style=flat-square&logo=academia&logoColor=white&labelColor=1a1a2e)
-![Mathematics](https://img.shields.io/badge/Mathematics-Problem%20Solving-7B1FA2?style=flat-square&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a2e)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1a2e)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=1a1a2e)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1a1a2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-416E2E?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1a2e)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1a2e)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)
+![MCP](https://img.shields.io/badge/MCP-222222?style=flat-square&logo=modelcontextprotocol&logoColor=white&labelColor=1a1a2e)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1a2e)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1a2e)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white&labelColor=1a1a2e)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=1a1a2e)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Enfoque Actual
+## 🎯 Enfoque Actual
 
 <div align="center">
 
@@ -173,7 +129,7 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Ecosistema Digital
+## 🌐 Ecosistema Digital
 
 <div align="center">
 
@@ -199,73 +155,17 @@ const carlos = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> Analítica y Métricas
+## 📈 Analítica y Métricas
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosjulian&bg_color=0d1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Gr%C3%A1fica%20de%20Contribuciones" width="100%"/>
-
-</div>
-
-<details>
-<summary><b>📊 Más Estadísticas</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosjulian&theme=radical" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosjulian&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosjulian&theme=radical" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosjulian&theme=radical&utcOffset=-6" width="32%"/>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>🏆 Trofeos de GitHub</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=carlosjulian&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophies"/>
-
-</div>
-
-</details>
-
-<details>
-<summary><b>📈 Gráfica de Contribuciones 3D</b></summary>
-<br/>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%"/>
-</div>
-
-</details>
-
----
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="25"> Mis Proyectos
-
-<div align="center">
-
-<a href="https://www.instagram.com/carlosjulian_tech/">
-<img src="https://img.shields.io/badge/Ingtelecto-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.youtube.com/@ingtelecto">
-<img src="https://img.shields.io/badge/YouTube-@ingtelecto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.tiktok.com/@ingtelectomx">
-<img src="https://img.shields.io/badge/TikTok-@ingtelectomx-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e"/>
-</a>
+<img src="https://ghchart.rshah.org/chart/carlosjulian" width="100%" alt="Gráfica de Contribuciones"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="25"> Conecta y Colabora
+## 🤝 Conecta y Colabora
 
 <div align="center">
 
@@ -282,17 +182,8 @@ const carlos = {
 
 <a href="https://www.instagram.com/carlosjulian_tech/"><img src="https://img.shields.io/badge/Instagram-carlosjulian__tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.youtube.com/@ingtelecto"><img src="https://img.shields.io/badge/YouTube-@ingtelecto-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.tiktok.com/@ingtelectomx"><img src="https://img.shields.io/badge/TikTok-@ingtelectomx-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://www.threads.com/@carlosjulian_tech"><img src="https://img.shields.io/badge/Threads-@carlosjulian__tech-000000?style=for-the-badge&logo=threads&logoColor=white&labelColor=1a1a2e"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Cita Aleatoria de Desarrollador
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -302,7 +193,7 @@ const carlos = {
 
 <img src="https://komarev.com/ghpvc/?username=carlosjulian&label=Vistas%20de%20Perfil&color=A855F7&style=for-the-badge"/>
 
-**<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> ¡Gracias por pasar!**
+**💜 ¡Gracias por pasar!**
 
 *"Diseñar inteligencia, automatizar sistemas y construir productos que convierten ideas en impacto real."*
 

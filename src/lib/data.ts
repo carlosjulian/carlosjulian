@@ -1,4 +1,4 @@
-import { fetchGitHubUser, fetchGitHubRepos, fetchGitHubStats, GitHubRepo } from "./github";
+import { fetchGitHubUser, fetchGitHubRepos, fetchGitHubStats } from "./github";
 
 // Static profile data (doesn't change)
 export const staticProfile = {
@@ -192,7 +192,7 @@ function getCategoryFromTopics(topics: string[], language: string | null): strin
 }
 
 // Icon mapping for repos
-function getIconFromCategory(category: string, topics: string[]): string {
+function getIconFromCategory(category: string): string {
   const iconMap: Record<string, string> = {
     "AI/ML Frameworks": "Brain",
     "MCP & DevTools": "Wrench",
@@ -253,7 +253,7 @@ export async function getDynamicProjects() {
       featured: isFeatured,
       isForked: repo.fork,
       isContribution: repo.isContribution, // Validated: user is in contributors list
-      icon: getIconFromCategory(category, repo.topics),
+      icon: getIconFromCategory(category),
       updatedAt: repo.pushed_at,
     };
   });

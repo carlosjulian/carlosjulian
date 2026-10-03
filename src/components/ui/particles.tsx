@@ -1,16 +1,7 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useRef } from "react";
 import { motion } from "framer-motion";
-
-interface Particle {
-  x: number;
-  y: number;
-  size: number;
-  speedX: number;
-  speedY: number;
-  opacity: number;
-}
 
 export function ParticleBackground({ count = 50 }: { count?: number }) {
   const containerRef = useRef<HTMLDivElement>(null);

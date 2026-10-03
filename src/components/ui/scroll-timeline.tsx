@@ -51,12 +51,10 @@ export function ScrollTimeline({ items, className }: ScrollTimelineProps) {
 
       {/* Timeline items */}
       <div className="relative space-y-24">
-        {items.map((item, index) => (
+        {items.map((item) => (
           <TimelineEntry
             key={item.id}
             item={item}
-            index={index}
-            total={items.length}
           />
         ))}
       </div>
@@ -66,12 +64,8 @@ export function ScrollTimeline({ items, className }: ScrollTimelineProps) {
 
 function TimelineEntry({
   item,
-  index,
-  total,
 }: {
   item: TimelineItem;
-  index: number;
-  total: number;
 }) {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({

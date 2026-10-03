@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useRef, useEffect } from "react";
 import { motion, AnimatePresence, useInView, useMotionValue, useSpring, useTransform } from "framer-motion";
-import { Star, GitFork, ExternalLink, Github, Search, X, Sparkles, ArrowUpDown, Clock, TrendingUp, ChevronLeft, ChevronRight } from "lucide-react";
+import { Star, GitFork, ExternalLink, Github, Search, X, Sparkles, Clock, TrendingUp, ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { DynamicIcon } from "@/components/ui/dynamic-icon";
 
@@ -237,13 +237,6 @@ export default function Projects({ projects, categories }: ProjectsProps) {
       counts[p.category] = (counts[p.category] || 0) + 1;
     });
     return counts;
-  }, [projects]);
-
-  // Count for ownership filters (contributions = validated contributors only)
-  const ownershipCounts = useMemo(() => {
-    const original = projects.filter((p) => !p.isForked).length;
-    const contributed = projects.filter((p) => p.isContribution).length;
-    return { all: projects.length, original, contributed };
   }, [projects]);
 
   const filteredProjects = useMemo(() => {
