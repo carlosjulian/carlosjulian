@@ -154,16 +154,6 @@ ECOSISTEMA TOTAL — AÑO 2025:
 
 ---
 
-## 📈 Analítica y Métricas
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/chart/carlosjulian" width="100%" alt="Gráfica de Contribuciones"/>
-
-</div>
-
----
-
 ## 🤝 Conecta y Colabora
 
 <div align="center">
